@@ -14,7 +14,7 @@ To-Do List application that allows users to efficiently manage their tasks and o
 
 ## **Use Case Diagram**
 
-![chatuml-diagram.svg](PROJECT%20for%20SOFTWARE%20ENGINEERING%20LABORATORY%202c4b7be625e746cb878f1a87185b388b/chatuml-diagram.svg)
+![chatuml-diagram.svg](PROJECT%20for%20SOFTWARE%20ENGINEERING%20LABORATORY%202c4b7be625e746cb878f1a87185b388b/uc.svg)
 
 ---
 
